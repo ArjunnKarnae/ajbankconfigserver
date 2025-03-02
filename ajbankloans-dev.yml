@@ -1,0 +1,10 @@
+ajbankloans:
+  build:
+    version: 5.0
+  message: "Welcome to the AJBankLoans Dev API Info"
+  contactDetails:
+    name: "Steph Curry - Dev Lead"
+    email: "steph.curry@ajbank.com"
+  onCallSupport:
+    - (333) 112 2233
+    - (333) 234 2134
