@@ -1,0 +1,10 @@
+ajbankcards:
+  build:
+    version: 3.0
+  message: "Welcome to the AJBankCards Dev API Info"
+  contactDetails:
+    name: "Tim Cook - Dev Lead"
+    email: "tim.cook@ajbank.com"
+  onCallSupport:
+    - (555) 123 2222
+    - (553) 234 1512
