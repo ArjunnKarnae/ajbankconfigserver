@@ -4,13 +4,13 @@ spring:
       on-profile: "qa"
 
 build:
-  version: "6.0"
+  version: "6.1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs - Version 6.0"
+  message: "Welcome to EazyBank accounts related QA APIs - Version 6.1.0"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "{cipher}4271627e54d1d7bf06cc89aba52fff7f2d9995686b91bc5130a03bf8bd66eb519a330e2c53fdd16f8b292591c7a41d6f"
   onCallSupport:
-    - (666) 265-3765
+    - (666) 265-3762
     - (666) 734-8371
