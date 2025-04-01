@@ -1,10 +1,11 @@
 server:
-  port: 8761
+  port: 8070
 
-netflix:
-  eureka:
-    client:
-      registerWithEureka: false
-
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    fetchRegistry: false
+    registerWithEureka: false
     serviceUrl:
-      defaultZone: http://localhost:{server.port}
+      defaultZone: "http://{eureka.instance.hostname}:{server.port}/eureka/"
